@@ -1,0 +1,11 @@
+the software will
+1. Point to images folder
+2. Import them into the software
+3. Run an action to add a black border around the image
+4. Randomly rotate the individual image and create an output for the selected year number
+5. Be able to cope with a number of files ghat could change each time the software is used 100 one day and then maybe 1000 the next.
+6. Produce jpeg output file resized to the size requested
+
+
+
+Hi, We are looking fro someone to develop some software for our school photography business. Im looking for the software to be able to import images that could range from 100 or 1000 or anything in between and be able to turn them into the attached picture. If you zoom in closely you will see the images are randomly twisted and have a black border round. The software will also need this function. It needs to be able to cope with different quantities of images and be able to choose the year to use each year I.ei 2020, 2021, 2022 etc The output will need to be jpeg format and ideally I want to be able to set the output size I want I.e. 12x8, 18x6 etc Here is a sample of the output https://drive.google.com/drive/folders/1-BugWsniVjwnvRtqWZfo56mskRQQnc55 If you can’t do all this then please say so, I’ve already had to get my money back from some idiot who said he could do it and then couldn’t and then been messed about by a further two people who said they could do it for one price and then quoted me another. QUOTE ME THE PRIVE IT WILL COST AND ONLY RESPOND IF YOU CAN DO THE JOB! IF YOU CANT FULFIL ETHER OF THESE THEN DON'T REPLY!! Thanks David
